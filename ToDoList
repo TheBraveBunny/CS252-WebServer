@@ -1,0 +1,21 @@
+
+Part 1:
+1. wrong flags, no port num, etc
+
+Part 3:
+1. Loadable modules
+	- keep from reloading the same module multiple times
+2. Extra credit
+3. Implement post
+
+
+
+- clean up code
+- comment
+- double check everything
+
+
+not robust for -t after many many refreshes, and can't run on mozilla for seemingly same reason
+	maybe only for -t flag
+
+
